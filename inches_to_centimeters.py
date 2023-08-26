@@ -1,3 +1,3 @@
-a=int(input())
-x=2.54*a
-print(f"{x:.2f}")
+i=int(input())
+c=2.54*i
+print(f"{c:.2f}")
