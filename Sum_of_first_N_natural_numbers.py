@@ -1,5 +1,3 @@
 n=int(input())
-sm=0
-for i in range(1,n+1):
-    sm+=i
-print(sm)
+sm=(n*(n+1))/2
+print(f"{sm:.0f}")
