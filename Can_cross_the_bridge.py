@@ -1,5 +1,5 @@
-a=int(input())
-b=int(input())
-c=int(input())
-n=(c-b)//a
-print(n)
+x=int(input())
+y=int(input())
+z=int(input())
+b=(z-y)/x
+print(f"{b:.0f}")
